@@ -1,0 +1,22 @@
+﻿using Tyuiu.BushuevaSR.Sprint2.Task1.V2.Lib;
+namespace Tyuiu.BushuevaSR.Sprint2.Task1.V2.Test
+{
+    [TestClass]
+    public sealed class DataServiceTest
+    {
+        [TestMethod]
+        public void GetLogicOperations()
+        {
+            DataService ds = new DataService();
+            int a = 657;
+            int b = 874;
+            int c = 14;
+            int d = 654;
+            bool[] res = new bool[6];
+            res = ds.GetLogicOperations(a, b, c, d);
+            bool[] wait = new bool[6] { true, false, true, true, true, false };
+
+            CollectionAssert.AreEqual(wait, res);
+        }
+    }
+}
