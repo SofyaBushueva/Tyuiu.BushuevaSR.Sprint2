@@ -5,8 +5,8 @@
     <Project Path="Tyuiu.BushuevaSR.Sprint2.Task0.V2/Tyuiu.BushuevaSR.Sprint2.Task0.V2.csproj" />
   </Folder>
   <Folder Name="/Task1/">
-    <Project Path="Tyuiu.BushuevaSR.Sprint2.Task1.V2.Lib/Tyuiu.BushuevaSR.Sprint2.Task1.V30.Lib.csproj" Id="f745bb51-579a-49ee-adf8-5075eb06448e" />
-    <Project Path="Tyuiu.BushuevaSR.Sprint2.Task1.V2.Test/Tyuiu.BushuevaSR.Sprint2.Task1.V30.Test.csproj" Id="b93b5a88-be11-41d7-8261-ac8f2c197a4f" />
-    <Project Path="Tyuiu.BushuevaSR.Sprint2.Task1.V2/Tyuiu.BushuevaSR.Sprint2.Task1.V30.csproj" Id="8306d95a-55d1-4411-b957-8f168947f065" />
+    <Project Path="Tyuiu.BushuevaSR.Sprint2.Task1.V30.Lib/Tyuiu.BushuevaSR.Sprint2.Task1.V30.Lib.csproj" Id="a42627a0-eff5-456e-94c3-17e251ae8049" />
+    <Project Path="Tyuiu.BushuevaSR.Sprint2.Task1.V30.Test/Tyuiu.BushuevaSR.Sprint2.Task1.V30.Test.csproj" Id="45928a0e-2481-446c-b3f1-8c27b36e9057" />
+    <Project Path="Tyuiu.BushuevaSR.Sprint2.Task1.V30/Tyuiu.BushuevaSR.Sprint2.Task1.V30.csproj" Id="8f7603df-a8e7-4259-86e1-e9921b11acbb" />
   </Folder>
 </Solution>

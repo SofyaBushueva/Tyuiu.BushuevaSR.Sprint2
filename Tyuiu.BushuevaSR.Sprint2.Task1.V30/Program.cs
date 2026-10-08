@@ -1,5 +1,5 @@
-﻿using Tyuiu.BushuevaSR.Sprint2.Task1.V2.Lib;
-namespace Tyuiu.BushuevaSR.Sprint2.Task1.V2
+﻿using Tyuiu.BushuevaSR.Sprint2.Task1.V30.Lib;
+namespace Tyuiu.BushuevaSR.Sprint2.Task1.V30
 {
     internal class Program
     {
@@ -45,12 +45,15 @@ namespace Tyuiu.BushuevaSR.Sprint2.Task1.V2
             Console.WriteLine("*****************************************************************************************************************");
 
             for (int i = 0; i < 6; i++)
+
             {
                 Console.WriteLine(res[i]);
 
             }
-           
+
             Console.ReadKey();
+
         }
+
     }
 }

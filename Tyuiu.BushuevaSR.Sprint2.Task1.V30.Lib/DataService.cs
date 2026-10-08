@@ -1,6 +1,5 @@
-﻿using tyuiu.cources.programming.interfaces.Sprint1;
-using tyuiu.cources.programming.interfaces.Sprint2;
-namespace Tyuiu.BushuevaSR.Sprint2.Task1.V2.Lib
+﻿using tyuiu.cources.programming.interfaces.Sprint2;
+namespace Tyuiu.BushuevaSR.Sprint2.Task1.V30.Lib
 {
     public class DataService : ISprint2Task1V30
     {
@@ -16,6 +15,7 @@ namespace Tyuiu.BushuevaSR.Sprint2.Task1.V2.Lib
             res[5] = (a < b) ^ (c < d);
 
             return res;
+
         }
     }
 }

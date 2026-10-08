@@ -1,5 +1,5 @@
-﻿using Tyuiu.BushuevaSR.Sprint2.Task1.V2.Lib;
-namespace Tyuiu.BushuevaSR.Sprint2.Task1.V2.Test
+﻿using Tyuiu.BushuevaSR.Sprint2.Task1.V30.Lib;
+namespace Tyuiu.BushuevaSR.Sprint2.Task1.V30.Test
 {
     [TestClass]
     public sealed class DataServiceTest
@@ -17,6 +17,7 @@ namespace Tyuiu.BushuevaSR.Sprint2.Task1.V2.Test
             bool[] wait = new bool[6] { true, false, true, true, true, false };
 
             CollectionAssert.AreEqual(wait, res);
+
         }
     }
 }
