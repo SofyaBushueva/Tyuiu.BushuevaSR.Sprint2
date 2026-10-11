@@ -9,7 +9,7 @@ namespace Tyuiu.BushuevaSR.Sprint2.Task3.V24.Lib
 
             if (x > 0)
             {
-                y = Math.Round(Math.Pow(x * ((10 + Math.Sin(Math.Sqrt(x + 1))) / x), x), 3);
+                y = x * Math.Pow((10 + Math.Sin(Math.Sqrt(x + 1))) / x, x);
             }
             else
             {
