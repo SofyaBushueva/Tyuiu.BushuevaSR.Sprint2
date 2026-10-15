@@ -35,7 +35,7 @@ namespace Tyuiu.BushuevaSR.Sprint2.Task5.V7
             }
             else
             {
-                res = "Это месяц: " + ds.FindMonthName(1990, n + 1);
+                res = "Это месяц: " + ds.FindMonthName(1990, n);
             }
             Console.WriteLine("*****************************************************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                                                                    *");
