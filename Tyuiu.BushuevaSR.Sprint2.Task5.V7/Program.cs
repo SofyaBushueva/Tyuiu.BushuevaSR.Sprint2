@@ -13,7 +13,7 @@ namespace Tyuiu.BushuevaSR.Sprint2.Task5.V7
             Console.WriteLine("* Спринт #2                                                                                                     *");
             Console.WriteLine("* Тема: Базовые навыки работы в C#                                                                              *");
             Console.WriteLine("* Задание #5                                                                                                    *");
-            Console.WriteLine("* Вариант #1                                                                                                    *");
+            Console.WriteLine("* Вариант #7                                                                                                    *");
             Console.WriteLine("* Выполнила: Бушуева Софья Романовна | ПИНб-26-1                                                                *");
             Console.WriteLine("*****************************************************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                                                      *");
