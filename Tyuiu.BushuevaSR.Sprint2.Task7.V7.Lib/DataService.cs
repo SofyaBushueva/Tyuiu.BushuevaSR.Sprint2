@@ -6,7 +6,7 @@ namespace Tyuiu.BushuevaSR.Sprint2.Task7.V7.Lib
         public bool CheckDotInShadedArea(double x, double y)
         {
             bool res;
-            if  (y >= x && y <= 2 - Math.Pow(x, 2))
+            if  (((y >= x) || (y >= 0)) && y <= 2 - Math.Pow(x, 2))
             {
                 res = true;
             }
